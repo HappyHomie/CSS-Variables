@@ -1,0 +1,10 @@
+/* --- Main styles --- */
+
+h1, h2, h3{
+    font-weight: normal;
+}
+
+body{
+    margin: 0;
+    font-family: Verdana;
+}

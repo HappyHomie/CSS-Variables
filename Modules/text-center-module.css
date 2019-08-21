@@ -1,0 +1,8 @@
+.text__center{
+    width: 760px;
+    margin: 0 auto;
+    position: relative;
+    top: -100px;
+    padding: 40px 60px;
+    background: #fff
+}
